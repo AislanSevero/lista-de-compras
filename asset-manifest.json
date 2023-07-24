@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/lista-de-compras/static/css/main.18e549b9.css",
+    "main.js": "/lista-de-compras/static/js/main.54a8f135.js",
+    "static/js/787.bc30ca85.chunk.js": "/lista-de-compras/static/js/787.bc30ca85.chunk.js",
+    "static/media/background.jpg": "/lista-de-compras/static/media/background.dc2bead53be4c826161a.jpg",
+    "static/media/lixeira.png": "/lista-de-compras/static/media/lixeira.2a6ff5a5925923dd3f2a.png",
+    "index.html": "/lista-de-compras/index.html",
+    "main.18e549b9.css.map": "/lista-de-compras/static/css/main.18e549b9.css.map",
+    "main.54a8f135.js.map": "/lista-de-compras/static/js/main.54a8f135.js.map",
+    "787.bc30ca85.chunk.js.map": "/lista-de-compras/static/js/787.bc30ca85.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.18e549b9.css",
+    "static/js/main.54a8f135.js"
+  ]
+}
